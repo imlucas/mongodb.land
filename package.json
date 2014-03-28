@@ -1,0 +1,36 @@
+{
+  "name": "mongodb.land",
+  "description": "@todo",
+  "author": "Lucas Hrabovsky <hrabovsky.lucas@gmail.com> (http://imlucas.com)",
+  "version": "0.0.1",
+  "guzzle": "ui",
+  "dependencies": {},
+  "license": "MIT",
+  "scripts": {
+    "start": "gulp dev",
+    "deploy": "gulp deploy",
+    "test": "mocha"
+  },
+  "homepage": "http://github.com/imlucas/mongodb.land",
+  "devDependencies": {
+    "mocha": "^1.17.1",
+    "gulp": "^3.5.2",
+    "guzzle": "imlucas/guzzle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imlucas/mongodb.land"
+  },
+  "jshintConfig": {
+    "eqeqeq": true,
+    "node": true,
+    "indent": 2,
+    "newcap": true,
+    "predef": [ "describe", "it", "before", "beforeEach", "after", "afterEach"],
+    "quotmark": "single",
+    "unused": true,
+    "trailing": true,
+    "boss": true,
+    "loopfunc": true
+  }
+}
