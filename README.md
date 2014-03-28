@@ -1,3 +1,3 @@
 # mongodb.land
 
-![a special note from MONGO](master/img/drunkhulk.gif)
+![a special note from MONGO](https://raw.githubusercontent.com/imlucas/mongodb.land/master/img/drunkhulk.gif)
