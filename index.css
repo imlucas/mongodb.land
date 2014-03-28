@@ -1,0 +1,20 @@
+body {
+  font-size: 21px;
+}
+#app {
+  font-family: serif;
+  font-variant: small-caps;
+}
+#app .MONGO {
+  background: #47BEEC;
+}
+#app .MONGO img {
+  margin-right: 50px;
+  display: block;
+}
+#app .project .description,
+#app .project .help {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
